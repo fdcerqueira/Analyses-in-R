@@ -1,4 +1,4 @@
-# Analyses-in-R
+# Analyses in R
 
 random_forest_AUC.R 
 
@@ -6,11 +6,11 @@ Random forest classifier of antibiotic resistance data to define categories of a
 <br/>
 <br/>
 <br/>
-**ARGS.R**
+**ARGs.R**
 
 Analysis of ARGs and bacteria of interest (more details about the experiment soon...)
 
-1) ARGs abundance stacked barplot and dotplot
+1)ARGs abundance stacked barplot and dotplot
 
 2)Principal component Analysis (PCA) and plot
 
