@@ -19,4 +19,11 @@ Analysis of ARGs and bacteria of interest (more details about the experiment soo
 4)Beta disperpersion, beta diversity and NMDS
 
 5)Canonical correspondence analysis (CCA)
+<br/>
+<br/>
+<br/>
+**analysis_plots_from_simulations.R**
+
+R script to make plots and mean shift classification from generated smiluations of competiton and mutations. 
+
 
